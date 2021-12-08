@@ -1,4 +1,3 @@
-# AOC2021
-Advent of Code 2021
+# Advent of Code 2021
 
-Simple code but I get up early.
+Simple code but I wake up early.
