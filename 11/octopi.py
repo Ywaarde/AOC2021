@@ -75,7 +75,6 @@ def count_flashes(data, cycles):
 
 def all_flash(data):
     input = build_matrix(data)
-    # flashes = 0
     cycle = 0
 
     while True:
